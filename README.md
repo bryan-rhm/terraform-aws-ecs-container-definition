@@ -1,5 +1,5 @@
 # Terraform ECS Container Definitions
-Inspired from (cloudpose module)[https://github.com/cloudposse/terraform-aws-ecs-container-definition]
+Inspired from [cloudposse module](https://github.com/cloudposse/terraform-aws-ecs-container-definition)
 ## Requirements
 
 | Name | Version |
